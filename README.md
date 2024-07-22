@@ -14,6 +14,7 @@
 
 ## 📍Key Features :.
 - Accurate PDF Parsing: Utilizing powerful tools to extract text and data seamlessly.
+- Vector DB : Used for storing the PDF for better performance.
 - Integration with Gemini API: Leveraging robust capabilities for enhanced performance.
 - LangChain Integration: Ensuring smooth and efficient processing.
 - Streamlit : For UI design and easy working.
