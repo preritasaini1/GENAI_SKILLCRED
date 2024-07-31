@@ -1,6 +1,12 @@
 streamlit
 google-generativeai
 python-dotenv
+langchain
+langchain-community==0.2.7
+langchain_google_generativeai
+PyPDF2
+langchain-google-genai
+
 
 #python -m pip install -r requirement.txt 
 [by using this command we can install all libraries that we write in requirement.txt file ;)]
